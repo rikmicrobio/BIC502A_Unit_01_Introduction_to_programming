@@ -317,3 +317,12 @@ awk
 ```
 
 We will also learn about **piping and writing files using Bash**.
+
+
+
+----
+try solving this problem:
+As a question for students
+
+Q. Write a single Linux command to create a directory bioinformatics containing a subdirectory practical, and create an empty file file.txt inside practical.
+Q: how && is different from |?
