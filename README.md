@@ -1,3 +1,5 @@
+<img width="400" height="300" alt="Image" src="https://github.com/user-attachments/assets/79525595-6240-436b-a831-2ddfcef53df8" />
+
 # Unit I: Navigating a Linux Environment
 
 ## BTE608A — Programming / Bioinformatics Practical
