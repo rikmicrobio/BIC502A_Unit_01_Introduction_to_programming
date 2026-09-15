@@ -26,10 +26,13 @@ By the end of this unit, you should be able to:
 
 ---
 # Typpe this command:
+```text
 tree -d -L 3 /
+```
+```text
 or
 find / -maxdepth 1 -type d -not -path '*/.*' | sort
-
+```
 
 <img width="1123" height="611" alt="Image" src="https://github.com/user-attachments/assets/f420b083-e242-4525-9ad2-41d916c4e4b3" />
 
