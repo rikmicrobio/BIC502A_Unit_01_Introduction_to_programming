@@ -29,8 +29,8 @@ By the end of this unit, you should be able to:
 ```text
 tree -d -L 3 /
 ```
-```text
 or
+```text
 find / -maxdepth 1 -type d -not -path '*/.*' | sort
 ```
 
