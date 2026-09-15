@@ -1,0 +1,3 @@
+BTE608A Unit I Practice
+Linux provides a command-line environment for bioinformatics.
+Files and directories can be created, copied, moved, and removed.
