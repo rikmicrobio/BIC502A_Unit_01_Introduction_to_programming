@@ -23,7 +23,7 @@ By the end of this unit, you should be able to:
 - Execute basic programs from the terminal
 
 ---
-
+<img width="1123" height="611" alt="Image" src="https://github.com/user-attachments/assets/f420b083-e242-4525-9ad2-41d916c4e4b3" />
 ## 1. The Linux Terminal
 
 The terminal allows us to interact with the operating system using commands.
